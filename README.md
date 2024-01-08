@@ -3,10 +3,10 @@
 I'm an accomplished Data Scientist and Software Engineer with six years of industry experience and a diverse set of skills. I'm a Computer Engineering graduate from Istanbul Technical University.
 
 ## Expertise 🛠️
-- **Programming Languages:** Proficient in Python, Java, Node.js, React, C++. 
+- **Programming Languages:** Proficient in Python, Java, Javascript, React.js, Node.js, React Native, Express.js, C++. 
 - **Mobile App Development:** Developed applications using Flutter, React Native, and iOS development.
 - **Machine Learning & Deep Learning:** Expert in tools like TensorFlow, Keras, and PyTorch. I have a deep understanding of Neural Networks and have applied these tools to optimize E-commerce Ad Spend and other Ai projects.
-- **Data Management:** Experience handling and managing data using PostgreSQL. 
+- **Data Management:** Experience handling and managing data using PostgreSQL, MySQL, Firebase. 
 - **Cloud Platforms:** Skilled in using AWS, Microsoft Azure, and Google Cloud Platform (GCP).
 - **NLP, Computer Vision & APIs:** Skilled in Natural Language Processing, Computer Vision, and the usage of APIs like OpenAI API and Azure Cognitive Services. 
 - **Other Skills:** REST APIs, Object Oriented Programming, and software engineering practices.
